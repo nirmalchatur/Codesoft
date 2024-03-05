@@ -1,4 +1,4 @@
-Nirmal Chaturvedi, [05-03-2024 09:08]
+
 import cv2
 from PIL import Image, ImageTk
 import face_recognition
